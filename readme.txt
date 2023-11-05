@@ -7,3 +7,5 @@ Por último, Mergeamos la rama EjsHilos-HiloEj1 a la rama en la que nos encontra
 Una vez tenido todo el ejercicio en una misma rama, nos vamos a la rama Main y mergeamos EjsHilos-Main y versionamos como 2.0. 
 Para finalizar, se le añade el readme en una rama aparte y posteriormente se mergea para así dar a entender todo el funcionamiento.
 Un saludo, Sebas.
+
+Soy Alberto y he editado esto.
